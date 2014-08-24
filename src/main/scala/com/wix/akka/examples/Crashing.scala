@@ -1,3 +1,5 @@
+package com.wix.akka.examples
+
 import akka.actor.SupervisorStrategy.Stop
 import akka.actor._
 import akka.event.Logging

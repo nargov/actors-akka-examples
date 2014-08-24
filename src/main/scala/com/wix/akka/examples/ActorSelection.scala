@@ -1,4 +1,6 @@
-import akka.actor.{Props, Actor, ActorSystem}
+package com.wix.akka.examples
+
+import akka.actor.{Actor, ActorSystem, Props}
 import akka.event.Logging
 
 object ActorSelection extends App{
